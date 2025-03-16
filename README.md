@@ -1,1 +1,1 @@
-# react-curs6-7-state-management-template
+# react-curs6-7-state-management
